@@ -1,0 +1,30 @@
+[
+  {
+    coord: { lon: 88.3697, lat: 22.5697 },
+    weather: [ [Object] ],
+    base: 'stations',
+    main: {
+      temp: 29.97,
+      feels_like: 36.97,
+      temp_min: 29.97,
+      temp_max: 30.02,
+      pressure: 1002,
+      humidity: 94
+    },
+    visibility: 3200,
+    wind: { speed: 3.6, deg: 160 },
+    clouds: { all: 40 },
+    dt: 1624461877,
+    sys: {
+      type: 1,
+      id: 9114,
+      country: 'IN',
+      sunrise: 1624404189,
+      sunset: 1624452849
+    },
+    timezone: 19800,
+    id: 1275004,
+    name: 'Kolkata',
+    cod: 200
+  }
+]
